@@ -1,0 +1,27 @@
+body {
+    background-color: #bcf0f0;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    color: #1e3a8a;
+}
+
+p {
+    color: #475569;
+    font-size: 16px;
+}
+
+.card {
+    background-color: rgb(216, 224, 250);
+    width: 500px;
+    min-height: 200px;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    box-shadow: 0 4px 8px gray;
+    box-sizing: border-box;
+}
